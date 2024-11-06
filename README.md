@@ -1,7 +1,7 @@
 # Enhancing credit risk assessments of SMEs with non-financial information
 This repository contains all the code necessary for executing our analyses and generating the results detailed in the following paper:
 
-Wahlstrøm, R. R., Becker, L. K., & Fornes, T. N. (2024). Enhancing credit risk assessments of SMEs with non-financial information. Cogent Economics & Finance
+Wahlstrøm, R. R., Becker, L.-K., & Fornes, T. N. (2024). Enhancing credit risk assessments of SMEs with non-financial information. Cogent Economics & Finance, 12(1), 2418910. https://doi.org/10.1080/23322039.2024.2418910
 
 ## 1_download_non-financial_data.py
 The code in this file downloads the non-financial data from Enin AS.
